@@ -1,4 +1,5 @@
 from web3 import Web3, HTTPProvider, IPCProvider, WebsocketProvider
+import decimal
 
 web3 = Web3(HTTPProvider('http://localhost:8545'))
 
@@ -6,4 +7,4 @@ web3 = Web3(HTTPProvider('http://localhost:8545'))
 web3.eth.default_account =  web3.eth.accounts[0]
 default_account = web3.eth.default_account
 
-print (web3.eth.getBalance(default_account))
+print (web3.fromWei(web3.eth.getBalance(default_account), "ether"))
