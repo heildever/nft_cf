@@ -30,7 +30,7 @@ parsimonious==0.8.0
 pyasn1==0.4.3
 pyasn1-modules==0.2.1
 pycparser==2.18
-pycryptodome==3.6.4
+pycryptodome ~> 3.6.6
 pyOpenSSL==18.0.0
 python-binance==0.6.9
 python-dateutil==2.7.3

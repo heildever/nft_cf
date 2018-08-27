@@ -17,7 +17,7 @@ contract Nrj_Token is ERC721Token, Ownable {
     function receiveEther(uint256 amount) payable public {
         require(msg.value == amount);
     }
-    
+
 }
 /* cap should be defined to limit received erc20s
 then limit will be divided into # sender address
