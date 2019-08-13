@@ -9,7 +9,7 @@ This repo is meant to be a non-fungible token crowdsale event, almost like an IC
 ### Installing
 1. Start by cloning the repo `git clone https://github.com:heildever/nft_cf.git` 
 2. Then cd into project directory and install Node packages with `npm install nft_cf`
-followed by \`pip install -r requirements.txt` to install python dependencies.
+followed by `pip install -r requirements.txt` to install python dependencies.
 ## Deployment
 Familiarity with Ethereum frameworks is e.g Truffle, Embark will save time to understand how the project works/is structured. Make sure your Ganache is up and running with at least 2 accounts. 
 ### Comments
