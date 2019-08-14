@@ -20,4 +20,5 @@ Test scripts can stored under `/test`.
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin contracts v1.12.0
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details. 
